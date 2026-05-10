@@ -50,7 +50,7 @@ a {
 
 img {
     width: 500px;
-    max-height: 250px;
+    height: 250px;
 } 
 
 .web {
@@ -60,7 +60,7 @@ img {
 }
 .web2 {
     font-size: 18px;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .inner {
@@ -76,3 +76,43 @@ img {
     font-weight: 900px;
     color: #f9faf8;
 }
+
+
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 16px;
+}
+
+.second {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+}
+
+.second2 {
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 64px;
+    margin: 0 32px;
+}
+
+
+.subtext {
+    width: 200px;
+    color: #1f2937;
+    font-size: 18px;
+}
+
+.second1 {
+    font-weight: 900;
+    font-size: 36px;
+    color: #1f2937
+}
+
