@@ -42,7 +42,6 @@ body {
 }
 
 
-
 a {
     text-decoration: none;
     color: #f9faf8; 
@@ -182,3 +181,13 @@ button {
     color: #f9faf8;
 }
 
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-weight: 300;
+    font-size: 18px;
+}
